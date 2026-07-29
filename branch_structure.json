@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feature/issue-75-dutch-decay",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feature/issue-75-dutch-decay": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feature/issue-75-dutch-decay",
+    "origin"
+  ]
+}
